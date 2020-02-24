@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var ver = '1.0';
+exports.ver = ver;
+var author = "happy";
+exports.author = author;
+var extensions = ['jpg', 'gif'];
+exports.extensions = extensions;
+var display = function () { return "hello world"; };
+exports.display = display;
